@@ -26,8 +26,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="E:/Django_project/py_workspace" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Django_project/py_workspace" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\py_workspace\blog\templates\blog" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,7 +47,14 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="510" y="176" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585117731022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="510" y="176" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1585117731022" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1584097663469">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -55,9 +67,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583893022020" />
-    <state x="352" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1585115111823">
+    <state x="353" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1585119662593">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="352" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585115111823" />
+    <state x="353" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585119662593" />
   </component>
 </project>
