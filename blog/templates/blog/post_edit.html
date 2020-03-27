@@ -1,0 +1,10 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+
+    <h1>New post</h1>
+        <form method="post" class="post-form">{% csrf_token %} <!--보안을 위해 사용-->
+        {{form.as_p}} <!--as_p(),as_table(),as_ul() 기본 제공 입력폼 p태그,table태그,ul태그-->
+            <button type="submit" class="save btn btn-default">Save</button>
+        </form>
+{% endblock %}

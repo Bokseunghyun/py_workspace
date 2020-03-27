@@ -9,6 +9,10 @@
     </head>
     <body>
         <div class="page-header">
+           {% if user.is_authenticated %} <!--인증된 유저(로그인한 유저)인지 확인-->
+        <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
+            {% endif %}
+
             <h1><a href="/">Django Blog</a></h1>
         </div>
 
